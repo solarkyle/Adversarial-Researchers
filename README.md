@@ -3,6 +3,9 @@
 ## Concept
 This project implements a novel approach to extracting knowledge from Large Language Models (LLMs) through competitive debate. The core idea is that when LLMs are placed in an antagonistic setting where they must "one-up" each other, they tend to surface more of their internal knowledge than through standard prompting.
 
+#Test it out here
+https://adversarial-researchers.streamlit.app/
+
 ### How it Works
 1. **Initial Grounding**: Start with a grounded report from a model with access to real-time information
 2. **Competitive Extraction**: Two models engage in a debate, each trying to outdo the other by introducing new concepts and evidence
