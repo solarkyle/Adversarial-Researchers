@@ -3,7 +3,7 @@
 ## Concept
 This project implements a novel approach to extracting knowledge from Large Language Models (LLMs) through competitive debate. The core idea is that when LLMs are placed in an antagonistic setting where they must "one-up" each other, they tend to surface more of their internal knowledge than through standard prompting.
 
-#Test it out here
+# Test it out here
 https://adversarial-researchers.streamlit.app/
 
 ### How it Works
